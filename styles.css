@@ -298,7 +298,7 @@ body {
     .content {
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
+        justify-content: center;
         width: 100%;
     }
 
@@ -315,7 +315,6 @@ body {
     .info {
         width: 302px;
         margin-right: 116px;
-        margin-left: auto;
     }
 
     .team {
